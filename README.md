@@ -55,7 +55,6 @@ draft（下書き）
   <img src="./writer_sp.png" width="30%" />
 </p>
 
-
 ### 編集者画面（ PC / スマホ ）
 記事の公開・非公開・差し戻しを管理する画面
 <p align="center">
@@ -68,7 +67,7 @@ draft（下書き）
 
 http://musikyun.sakura.ne.jp/
 
-
+⸻
 ## 開発背景
 
 音楽を「消費するもの」ではなく、  
