@@ -36,6 +36,11 @@ draft（下書き）
 
 ## スクリーンショット
 トップページ
+<p align="center">
+  <img src="./images/pc.png" width="60%" />
+  <img src="./images/mobile.png" width="30%" />
+</p>
+
 <img width="864" height="580" alt="スクリーンショット 2026-04-01 16 35 38" src="https://github.com/user-attachments/assets/b2b3761b-b20c-4e0a-99f0-0bb606b7234a" />
 <img width="315" height="454" alt="スクリーンショット 2026-04-01 16 36 10" src="https://github.com/user-attachments/assets/b1697d0b-bea5-4afe-a9ce-9c49ba477471" />
 
