@@ -1,5 +1,4 @@
 import { useEffect, useState } from 'react'
-import { supabase } from './supabase'
 import './App.css'
 import { Link } from 'react-router-dom'
 
@@ -7,26 +6,19 @@ export default function Public() {
     const [articles, setArticles] = useState([])
     const [search, setSearch] = useState('')
 
-    useEffect(() => {
-        const fetchArticles = async () => {
-            const { data, error } = await supabase
-                .from('articles')
-                .select('*')
-                .eq('status', 'published')
-                .order('created_at', { ascending: false })
-
-            if (error) {
-                console.log(error)
-                return
-            }
-            console.log('data:', data)
-            console.log('error:', error)
-            setArticles(data || [])
+useEffect(() => {
+    setArticles([
+        {
+            id: 1,
+            slug: "take-it-easy",
+            title: "Take It Easy 分析",
+            created_at: new Date().toISOString(),
+            youtube_url: "https://www.youtube.com/watch?v=4v8KEbQA8kw"
         }
+    ])
+}, [])
 
-        fetchArticles()
-    }, [])
-
+    
     return (
         <div
             className="container"
