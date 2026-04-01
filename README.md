@@ -71,7 +71,7 @@ draft（下書き）
 ⸻
 ## サンプル記事
 
-- Take It Easy / Eagles  
+🔗 Take It Easy / Eagles  
   https://musikyun.sakura.ne.jp/article/take-it-easy-20260401-01
 
 ⸻
