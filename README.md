@@ -37,8 +37,8 @@ draft（下書き）
 ## スクリーンショット
 トップページ
 <p align="center">
-  <img src="./images/top_pc.png" width="60%" />
-  <img src="./images/top_sp.png" width="30%" />
+  <img src="./top_pc.png" width="60%" />
+  <img src="./top_sp.png" width="30%" />
 </p>
 
 
