@@ -35,12 +35,11 @@ draft（下書き）
 ⸻
 
 ## スクリーンショット
-トップページ
+### トップページ　（ PC / スマホ ）
 <p align="center">
-  <img src="./top_pc.png" width="60%" />
-  <img src="./top_sp.png" width="30%" />
+  <img src="./top_pc.png" width="65%" style="margin-right: 20px;" />
+  <img src="./top_sp.png" width="25%" />
 </p>
-
 
 ライター画面
 <p align="center">
