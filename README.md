@@ -1,7 +1,9 @@
 # ミュージキュン（Musikyun）
 
 音楽✖️体験✖️言語化。
+
 感動を共有する音楽メディア
+
 A music media connecting songs with personal experiences.
 
 ⸻
