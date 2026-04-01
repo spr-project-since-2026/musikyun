@@ -37,17 +37,17 @@ draft（下書き）
 ## スクリーンショット
 ### トップページ　（ PC / スマホ ）
 <p align="center">
-  <img src="./top_pc.png" width="65%" style="margin-right: 20px;" />
+  <img src="./top_pc.png" width="65%" style="margin-right: 24px;" />
   <img src="./top_sp.png" width="25%" />
 </p>
 
-ライター画面
+### ライター画面（ PC / スマホ ）画面
 <p align="center">
   <img src="./images/pc.png" width="60%" />
   <img src="./images/mobile.png" width="30%" />
 </p>
 
-編集者画面
+### 編集者画面（ PC / スマホ ）画面
 <p align="center">
   <img src="./images/pc.png" width="60%" />
   <img src="./images/mobile.png" width="30%" />
