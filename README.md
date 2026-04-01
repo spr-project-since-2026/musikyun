@@ -50,15 +50,15 @@ draft（下書き）
 
 ### ライター画面（ PC / スマホ ）画面
 <p align="center">
-  <img src="./writer_pc.png" width="65%" style="margin-right: 24px;" />
-  <img src="./writer_sp.png" width="25%" />
+  <img src="./writer_pc.png" width="65%" style="margin-left: -40px;" />
+  <img src="./writer_sp.png" width="30%" />
 </p>
 
 
 ### 編集者画面（ PC / スマホ ）画面
 <p align="center">
-  <img src="./editor_pc.png" width="65%" style="margin-right: 24px;" />
-  <img src="./editor_sp.png" width="25%" />
+  <img src="./editor_pc.png" width="65%" style="margin-left: -40px;" />
+  <img src="./editor_sp.png" width="30%" />
 </p>
 ⸻
 
