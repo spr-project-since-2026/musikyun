@@ -36,14 +36,12 @@ draft（下書き）
 
 ## スクリーンショット
 トップページ
-<img width="256" height="286" alt="スクリーンショット 2026-04-01 16 31 55" src="https://github.com/user-attachments/assets/22e34a6b-eb2b-4e86-b669-a611aee6fc7d" />
+<img width="864" height="580" alt="スクリーンショット 2026-04-01 16 35 38" src="https://github.com/user-attachments/assets/b2b3761b-b20c-4e0a-99f0-0bb606b7234a" />
+<img width="315" height="454" alt="スクリーンショット 2026-04-01 16 36 10" src="https://github.com/user-attachments/assets/b1697d0b-bea5-4afe-a9ce-9c49ba477471" />
 
 ライター画面
-<img width="314" height="562" alt="スクリーンショット 2026-04-01 16 33 47" src="https://github.com/user-attachments/assets/35bf57bc-35ce-4fe1-8a33-b330dcae432d" />
 
 編集者画面
-
-<img width="669" height="628" alt="スクリーンショット 2026-04-01 16 34 24" src="https://github.com/user-attachments/assets/63b1697b-9ecb-4813-91c5-07e53ede357f" />
 
 ⸻
 
