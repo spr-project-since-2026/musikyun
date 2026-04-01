@@ -1,8 +1,8 @@
 # ミュージキュン（Musikyun）
 
-音楽とリスナーの体験を結びつけて言語化するメディア。
-
-楽曲と個人の記憶や感情とのリンクを通じて、音楽の新たな価値を提示します。
+音楽✖️体験✖️言語化。
+感動を共有する音楽メディア
+A music media connecting songs with personal experiences.
 
 ⸻
 ## 特徴
