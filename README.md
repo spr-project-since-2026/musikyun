@@ -49,6 +49,7 @@ draft（下書き）
 </p>
 
 ### ライター画面（ PC / スマホ ）
+記事の作成・編集・公開依頼が可能な画面
 <p align="center">
   <img src="./writer_pc.png" width="65%" style="margin-left: -40px;" />
   <img src="./writer_sp.png" width="30%" />
@@ -56,6 +57,7 @@ draft（下書き）
 
 
 ### 編集者画面（ PC / スマホ ）
+記事の作成・編集・公開・非公開・差し戻しが可能な画面
 <p align="center">
   <img src="./editor_pc.png" width="65%" style="margin-left: -40px;" />
   <img src="./editor_sp.png" width="30%" />
