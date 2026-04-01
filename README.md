@@ -69,6 +69,12 @@ draft（下書き）
 🔗 http://musikyun.sakura.ne.jp/
 
 ⸻
+## サンプル記事
+
+- Take It Easy / Eagles  
+  https://musikyun.sakura.ne.jp/article/take-it-easy-20260401-01
+
+⸻
 ## 開発背景
 
 音楽を「消費するもの」ではなく、  
