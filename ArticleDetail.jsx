@@ -1,30 +1,18 @@
 import { useEffect, useState } from 'react'
 import { useParams, Link } from 'react-router-dom'
-import { supabase } from './supabase'
 
 export default function ArticleDetail() {
     const { slug } = useParams()
     const [article, setArticle] = useState(null)
 
-    useEffect(() => {
-        const fetchArticle = async () => {
-            const { data, error } = await supabase
-                .from('articles')
-                .select('*')
-                .eq('slug', slug)
-                .eq('status', 'published')
-                .single()
-
-            if (error) {
-                console.log(error)
-                return
-            }
-
-            setArticle(data)
-        }
-
-        fetchArticle()
-    }, [slug])
+useEffect(() => {
+  setArticle({
+    title: "Take It Easy 分析",
+    content: "これはポートフォリオ用の記事です\n\n音楽の構成やコード進行について考察します",
+    created_at: new Date().toISOString(),
+    youtube_url: "https://www.youtube.com/watch?v=4v8KEbQA8kw"
+  })
+}, [slug])
 
     if (!article) {
         return <div style={{ padding: '40px', textAlign: 'center' }}>読み込み中...</div>
